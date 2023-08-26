@@ -73,7 +73,9 @@ Additionally, we need to enable the option for anyone to create tickets. Navigat
 Let's create some agents by heading over to Agents -> Agents. You can name this agent whatever you wish, and as for the email, feel free to use a fake address like mary.jane@osticket.com. Click on 'Set Password,' uncheck both boxes, and set a simple password. Then, click 'Set' and move to the Access tab.
 
 - Department: System Administrators
-- Role: Supreme Admin. 
+- Role: Supreme Admin.
+- Extended Access: Support Click "Add"
+- Extended Role: Supreme Admin. 
 - Under the Teams tab, choose 'Level II Support,' then click 'Add,' and finally, press 'Create.'
 
 Let's create one more agent, but with restricted access. Once more, choose any name you prefer and set a simple password. Under the 'Access' tab, configure the following settings:

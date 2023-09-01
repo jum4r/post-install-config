@@ -23,10 +23,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Post-Install Configuration Objectives</h2>
 
 - Add & Configure Roles
-- Configure Departments & Teams
-- Configure Agents (workers) & Users (customers)
-- Configure Service Level Agreements (SLA)
-- Configure Help Topics
+- Add & Configure Departments & Teams
+- Add & Configure Agents (workers) & Users (customers)
+- Add & Configure Service Level Agreements (SLA)
+- Add Help Topics
 
 <h2>Configuration Steps</h2>
 
